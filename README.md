@@ -5,7 +5,7 @@ Completed December 2024.
 
 Reuploaded from private repository for ease of use.
 
-Authors: Samarth Kumar, Cliffton Lang, Jannatul Fhirdose Mohammed.
+Authors: Samarth Kumar, Cliffton Lang, Jannatul Fhirdose Mohammad.
 
 ---
 ### The repository includes the following:
